@@ -91,12 +91,12 @@ form input {
 }
 
 #popupbtn:hover {
-  background-color: #0092ff;
+  background-color: #066AAB;
   opacity: 100%;
 }
 #modalHead {
-  font-size: large;
-  color: #0092ff;
+  font-size: 25px;
+  color: black;
 }
 
 /* container1 */
@@ -271,7 +271,8 @@ form input {
 }
 .container-3 .wrapper .contents .contents-wrapper .description {
   width: 100%;
-  margin: 20px 0;
+  margin-top: 20px;
+  height: 100px;
 }
 .container-3 .wrapper .contents .contents-wrapper .description p {
   font-size: 16px;
